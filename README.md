@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">Backend Developer | PHP & Laravel | Vue.js & Nuxt.js</h3>
+<h3 align="left">Backend Engineer | PHP & Laravel | Vue.js & Nuxt.js</h3>
 
 ###
 
