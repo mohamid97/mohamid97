@@ -34,7 +34,7 @@ Expertise: Advanced system design, clean architecture, role/permission security,
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhmdhamed757@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-hamed-b5b1b724b/" target="_blank">
+  <a href="https://www.linkedin.com/in/eng-mohamed-hamed-elsayed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01c6f9fecf65f05ad7" target="_blank">
@@ -43,7 +43,7 @@ Expertise: Advanced system design, clean architecture, role/permission security,
   <a href="https://qabilah.com/profile/mohamedhamed" target="_blank">
     <img src="https://img.shields.io/badge/Qabila-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="qabila"/>
   </a>
-  <a href="https://drive.google.com/file/d/1PtQ4XJTZenblK3D1e1K82xQxG8-qL127/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1c1XWLsi_rnfxm5JUh_1PRl06IGedt9W_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="cv"/>
   </a>
 </p>
