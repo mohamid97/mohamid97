@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">Backend Engineer | PHP & Laravel | Vue.js & Nuxt.js</h3>
+<h3 align="left">Senior Backend Developer | PHP · Node.js</h3>
 
 ###
 
@@ -12,10 +12,9 @@
 ###
 
 <p align="left">
-I am a Backend Developer with 2+ years of experience in PHP and Laravel, building scalable web applications, REST APIs, and enterprise systems. 
-I have worked on e-commerce, ERP, and HR solutions, optimizing performance and integrating payment systems. 
-Skilled in Vue.js, MySQL, Redis, and API design, I am passionate about clean code and delivering real business value. 
-I am currently seeking new opportunities as a Laravel/Backend Developer to contribute to impactful projects.
+Senior Backend Developer with +4 years of experience specialized in building scalable, secure web applications and high-performance RESTful APIs.
+Tech Stack: Mastered in PHP/Laravel and Node.js/Express/Nestjs, paired with robust MySQL database, MongoDB, design and Vue.js.
+Expertise: Advanced system design, clean architecture, role/permission security, OTP, and seamless payment integrations.
 </p>
 
 
